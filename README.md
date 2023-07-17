@@ -6,7 +6,7 @@ Tailwind CSS is a popular utility-first CSS framework that allows you to rapidly
 
 ## Tailwind CSS Documentation
 
-[Documentation](https://v2.tailwindcss.com/docs)
+[Documentation](https://tailwindcss.com/docs)
 
 ## Tailwind Crash Course YouTube
 
