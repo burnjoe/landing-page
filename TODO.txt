@@ -1,0 +1,4 @@
+TO DO:
+
+-> Study how to apply tailwind classes to <table> element
+-> Study how pagination works
