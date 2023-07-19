@@ -1,4 +1,4 @@
-<p align="center"><a href="https://v2.tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="400" alt="Tailwind CSS Logo"></a></p>
+<p align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="400" alt="Tailwind CSS Logo"></a></p>
 
 ## About Tailwind CSS
 
