@@ -11,4 +11,4 @@ Tailwind CSS v3.3.3
 
 ## Tailwind Crash Course YouTube
 
-[Traversy Media Crash Course](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=31s)
+[Traversy Media Crash Course](https://www.youtube.com/watch?v=dFgzHOX84xQ&t)
