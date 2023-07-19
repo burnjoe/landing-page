@@ -891,6 +891,8 @@ video {
 
 /* own-defined style */
 
+/* all these will be compiled to css/main.css (output css) */
+
 body {
   /* '../' is used since once its compiled to css/main.css, */
   /* you'll need to cd to access img/{filename}, hence the use of '../' */
@@ -916,6 +918,54 @@ body {
   #cta {
     background-image: url('../img/bg-simplify-section-mobile.svg');
   }
+}
+
+/* Hamburger Menu */
+
+.hamburger {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  transition: all 0.25s;
+  position: relative;
+}
+
+.hamburger-top, 
+.hamburger-middle, 
+.hamburger-bottom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 2px;
+  background: #000;
+  transform: rotate(0);
+  transition: all 0.5s;
+}
+
+.hamburger-middle {
+  transform: translateY(7px);
+}
+
+.hamburger-bottom {
+  transform: translateY(14px);
+}
+
+.open {
+  transform:rotate(90deg);
+  transform: translateY(0px);
+}
+
+.open .hamburger-top {
+  transform: rotate(45deg) translateY(6px) translate(6px);
+}
+
+.open .hamburger-middle {
+  display: none;
+}
+
+.open .hamburger-bottom {
+  transform: rotate(-45deg) translateY(6px) translate(-6px);
 }
 
 .hover\:bg-brightRedLight:hover {
